@@ -15,12 +15,20 @@
 > 今天我们的TED演讲是黑客攻击 - 黑客攻击我们的大脑，进入环境，甚至进入灭绝动物的DNA - 黑客试图拯救世界。   
 
 ##### 黑客入侵 一个更美好的世界
-黑客编程一直是健康民主的重要组成部分。
+[黑客](https://baike.baidu.com/item/%E9%BB%91%E5%AE%A2/118396?fr=aladdin)编程一直是健康民主的重要组成部分，在这个鼓舞人心的演说中，骇客行为对社会的贡献也是同样大的。
+> 首先，Mikko Hypponen是一位程序员，他访问了The_Brain的创建者，这是1986年第一个困扰科技世界的计算机病毒。在2011年的讲话中，Hypponen讲述了他对病毒的调查是如何导致他致辞的。在巴基斯坦。Hypponen嵌入在受感染的软盘代码中，发现英文文字说：“欢迎来到1986年的地牢。小心这种病毒。联系我们接种疫苗。“按照他们的指示，Hypponen发现自己与创造历史的人面对面。他们这样做的原因是：证明新的PC电脑不安全。这证明第一批黑客实际上是好黑客。  
 
+> 地下铁路的建筑师之一 - 可能是有史以来最伟大的公民黑客 - 塔布曼致力于结束奴隶制。她没有等待国会取消废除，而是通过黑客攻击系统将数百名奴隶解放出来。
 
+> 骇客，是“Cracker”的音译，就是“破解者”的意思。从事恶意破解商业软件、恶意入侵别人的网站等事务。与黑客近义，其实黑客与骇客本质上都是相同的，闯入计算机系统/软件者。黑客和“骇客”（Cracker）并没有一个十分明显的界限，但随着两者含义越来越模糊，公众对待两者含义已经显得不那么重要了。
 
+ 黑客一直是健康民主国家的重要组成部分。尽管这个词经常有这么好的含义 - 表明流氓犯罪分子侵入计算机系统，窃取身份，间谍或更糟糕 - 黑客实际上只是现有系统上的任何业余创新。而“系统”不一定是技术问题。那么，公民黑客就是当公民在公共领域看到他们认为可以更好地工作并且决定自己去推动变革的事情时。它是关于创造比其各部分之和更大的东西。
+ 
+ 但是你在凝视深渊的时候，深渊也在凝视你！！！
+ 
+![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556436989489&di=8ad4bbde3a2926c6e9880bc975c0662c&imgtype=0&src=http%3A%2F%2Fimg4.178.com%2Fnews%2F201302%2F155844905216%2F155844959503.jpg)
 
-
+![image](http://pics1.baidu.com/feed/3b292df5e0fe9925a12e7aeaa805e4db8cb1719f.jpeg?token=32d186bdb9f7c47214521901e485b715&s=F32BB04408403A4F3E8BD5820300F098)
 ***
 ##### 关键词：
 教育  
@@ -28,5 +36,14 @@
 代码  
 女性  
 歧视  
+骇客  
+入侵  
+代替
+
 ***
 ##### 参考网站：
+琳达·卢卡斯：给孩子讲授电脑科学的愉快方式<https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers/reading-list?language=zh-cn>  
+Reshma Saujani：女孩要勇敢而不必完美<https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection/transcript?language=zh-cn>  
+凯瑟琳·布雷西：为什么好的骇客可以塑造好的公民<https://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens?language=zh-cn>  
+6个意想不到的历史人物与公民黑客<https://blog.ted.com/6-unexpected-historical-figures-with-the-civic-hacker-mindset/?lang=zh-CN>  
+黑客入侵一个更美好的世界<https://blog.ted.com/ted-radio-hour-hacking-our-way-to-a-better-world/>
